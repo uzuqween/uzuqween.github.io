@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://uzuqween.github.io/nchat-site/sitemap.xml
